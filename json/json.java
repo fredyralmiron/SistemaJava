@@ -21,6 +21,10 @@ public class json {
         this.detalle = detalle;
         this.retencion = retencion;
     }
+    
+    public void hola(){
+        String hola="hola";
+    }
 
     public atributos getAtributos() {
         return atributos;
